@@ -1,5 +1,9 @@
-Le jeu comportera une phase de combat classique comme pokémon,dragonquest,finalfantasy,...
+Le jeu doit être simple : on rajoutera les spécificités après.
+
+Le jeu comportera une phase de combat classique comme pokémon, dragonquest, finalfantasy,...
 C'est un jeu au tour par tour : Nos personnages combattent, les ennemis aussi...
+
+
 Pour la phase de combat : je propose que chaque personnage(ennemi ou alliés) ait 
 des stats :
 -Initiative : cela va permettre de donner l'ordre des personnages pour le combat
@@ -7,3 +11,10 @@ des stats :
 -Esprit ou Intelligence
 -Chance
 -Résistance
+-Vitesse
+-> tous ses paramètres peuvent gérer l'attaque que va effectuer le héro, sa défense en cas d'attaque,
+son esquive, son mana,...
+
+
+Il faut un scénario simple et un nom :
+..............................................
