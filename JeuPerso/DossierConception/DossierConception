@@ -1,10 +1,17 @@
 Le jeu doit être simple : on rajoutera les spécificités après.
 
-Le jeu comportera une phase de combat classique comme pokémon, dragonquest, finalfantasy,...
+*)questions simples :
+- un ou plusieurs héros ? -peut-être commencé par un perso lambda
+- un ou/et ou plusieurs ennemies à la fois ?
+- des trésors, une monnaie, des objets, des potions ?
+- héros choisissables ?
+
+
+*)Le jeu comportera une phase de combat classique comme pokémon, dragonquest, finalfantasy,...
 C'est un jeu au tour par tour : Nos personnages combattent, les ennemis aussi...
 
 
-Pour la phase de combat : je propose que chaque personnage(ennemi ou alliés) ait 
+*)Pour la phase de combat : je propose que chaque personnage(ennemi ou alliés) ait 
 des stats :
 -Initiative : cela va permettre de donner l'ordre des personnages pour le combat
 -Force
@@ -14,7 +21,10 @@ des stats :
 -Vitesse
 -> tous ses paramètres peuvent gérer l'attaque que va effectuer le héro, sa défense en cas d'attaque,
 son esquive, son mana,...
+Voir paramètres des jeux lambdas
 
-
-Il faut un scénario simple et un nom :
+*)Il faut un scénario simple et un titre :
 ..............................................
+
+*)Séparation du code en Modèle-Vue-Contrôleur
+Ajout de commentaires obligatoire !
