@@ -15,12 +15,12 @@ C'est un jeu au tour par tour : Nos personnages combattent, les ennemis aussi...
 des stats :
 -Initiative : cela va permettre de donner l'ordre des personnages pour le combat
 -Force
--Esprit ou Intelligence
+-Esprit ou Intelligence ou QI
 -Chance
 -Résistance
 -Vitesse
 -> tous ses paramètres peuvent gérer l'attaque que va effectuer le héro, sa défense en cas d'attaque,
-son esquive, son mana,...
+son esquive, son mana, chakra ou ki,...
 Voir paramètres des jeux lambdas
 
 *)Il faut un scénario simple et un titre :
@@ -28,3 +28,4 @@ Voir paramètres des jeux lambdas
 
 *)Séparation du code en Modèle-Vue-Contrôleur
 Ajout de commentaires obligatoire !
+Les images seront dans le dossier de Ressources.
