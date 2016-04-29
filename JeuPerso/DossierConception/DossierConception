@@ -1,5 +1,5 @@
 Le jeu doit être simple : on rajoutera les spécificités après.
-
+	-premier jet : le jeu ne contient q'une séquence de combat.
 *)questions simples :
 - un ou plusieurs héros ? -peut-être commencé par un perso lambda
 - un ou/et ou plusieurs ennemies à la fois ?
