@@ -8,6 +8,6 @@ public class FabriqueMonstre {
 	public static Monstre creerMonstreTest1()
 	//Constructeur
 	{
-		return new Monstre("goblin", 0, 0, 0, 0, 0, 0, 0, 0, 0);
+		return new Monstre("goblin", 100, 2, 1, 1, 1, 1, 1, 1, 1);
 	}
 }

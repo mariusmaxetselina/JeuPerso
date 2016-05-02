@@ -9,8 +9,14 @@ public class Combat {
 
 	public Combat(Hero hero,Monstre monstre){
 		while(hero.isVivant()&&monstre.isVivant()){
-			hero.Attaquer(monstre);
-			monstre.Attaquer(hero);
+
+			hero.comportementCombat(monstre);
+			if(!monstre.isVivant())
+				break;
+			monstre.comportementCombat(hero);
+			if(!hero.isVivant())
+				break;
+
 		}
 		if(hero.isVivant())
 			System.out.println("hero gagne");
