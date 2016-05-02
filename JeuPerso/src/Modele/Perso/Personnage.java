@@ -41,5 +41,9 @@ public abstract class Personnage {
 			return 0;
 		}
 	}
+	
+	public boolean isVivant(){
+		return vie>0;
+	}
 
 }
