@@ -35,3 +35,63 @@ Ajout de commentaires obligatoire !
 Les images seront dans le dossier de Ressources.
 
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Combat-Perso
+(1 ou +ieurs alliés ou ennemies ?)
+
+Les capacités classiques du Perso lambda :
+la fuite
+attaque de base
+consommation d'objet
+attaque spéciale ??? (utilisation du paramètre esprit en plus par exemple)
+
+du monstre :
+attaque de base
+attaque critique (nombre d'apparition varie en fonction de sa chance)
+ont créera des comportements définis pour les monstres (DP Stratégie)
+ 
+Des attaques qui durent dans le temps ? Poison, Brulure,... ?
+Des stuns ?
+arbre de compétences ?
+
+
+les objets :
+-Potion de Vie
+-Potion de Mana (pas encore pris en compte)
+-Potion d'Endurance (pas encore pris en compte)
+
+Armes/Armures ???
+Y aura-t'il des armes et des armures ? si oui comment cela fonctionne ?
+une personne peut porter une ou deux armes ? 
+peut-il porter un bouclier ?
+peut-il changer d'arme en cours de combat ?
+quel importance a l'arme et l'armure dans le combat ? (bonus ?)
+son armure est elle découper en jambières, chaussures, gantlets, plastron, casque ?
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+Idées de scénarios :
+
+Titre : Comment avoir sa L3 SPI Option Informatique, lorsque tout est contre vous ?
+On joue un étudiant en informatique qui veut sa L3. Pour ça il va devoir combattre des modules,
+des professeurs et toutes sortes de machines. Pour l'aider : d'autres étudiants.
+On pourrait créer des types d'étudiants qui seraient des variantes des jeux les plus connus :
+-le hacker (le voleur)
+-le webmaster (le mage)
+-le geek (le barbare)
+-...
+Le joueur pourrait choisir sa compo dès le début ou obtenir son équipe à fur et à mesure.
+
+
+Titre : Inconnu à ce jour
+ou sinon on peut faire un rpg classique style baldur's gate :
+Le joueur choisit un personnage avec une race et une classe(ces deux paramètres vont jouer sur la suite des évenements)
+et il part à l'aventure.
+les raisons de sa quête pourrait varier en fonction deux paramètres ci-dessus ainsi que du sexe du personnage :
+un nain nécromancien mâle aura certainement un but différent d'une elfe guerrière femelle.
+le lieu : un donjon par exemple
+
+
+Si les deux idées ne te plaisent pas tu peux très bien en inventer une troisième : à près tout, c'est aussi ton projet. A savoir que les
+deux idées sont modulables.
