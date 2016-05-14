@@ -19,10 +19,10 @@ public class Hero extends Personnage {
 		int i = (int)(Math.random()*3);
 		switch(i){
 		case 1:
-			System.out.println("hero :"+attaquerCritique(personnage));
+			System.out.println("Hero :"+attaquerCritique(personnage));
 			break;
 		default:
-			System.out.println("hero :"+attaquer(personnage));
+			System.out.println("Hero :"+attaquer(personnage));
 			break;
 		}
 	}
