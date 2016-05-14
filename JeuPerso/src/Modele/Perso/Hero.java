@@ -12,6 +12,7 @@ public class Hero extends Personnage {
 
 	}
 
+	
 	@Override
 	public void comportementCombat(Personnage personnage) {
 		// TODO Auto-generated method stub
