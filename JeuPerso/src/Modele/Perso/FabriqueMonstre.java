@@ -5,9 +5,9 @@ public class FabriqueMonstre {
  * 
  * @return
  */
-	public static Monstre creerMonstreTest1()
+	public static Monstre creerTechnicien()
 	//Constructeur
 	{
-		return new Monstre("goblin", 100, 2, 1, 1, 1, 1, 1, 1, 1);
+		return new Monstre("technicien", 100, 2, 1, 1, 1, 1, 1, 1, 1);
 	}
 }
